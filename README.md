@@ -1,8 +1,5 @@
 # ATP5F1B_project# ATP5F1B Phylogenetic Analysis
 
-## Data
-- Raw sequences collected from UniProt
-- File: data/raw/atp5f1b_raw.fasta
 
 ## Overview
 This project contains protein structure predictions and sequence analysis of ATP-related proteins using AlphaFold, MAFFT, and FoldMason. The goal is to compare protein sequences and structures and generate phylogenetic relationships.
